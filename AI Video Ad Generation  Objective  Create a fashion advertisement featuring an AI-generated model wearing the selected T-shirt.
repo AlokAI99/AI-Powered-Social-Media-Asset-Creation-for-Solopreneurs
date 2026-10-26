@@ -1,0 +1,39 @@
+Workflow
+
+Step 1 — AI Virtual Try-On
+
+Open Kling AI.
+
+Navigate to the Virtual Try-On feature, if available.
+
+Upload a suitable model image.
+
+Upload the T-shirt or wardrobe reference image.
+
+Generate and review the try-on result.
+
+Step 2 — Image-to-Video Generation
+
+Open Kling AI's image-to-video generation workflow.
+
+Upload the generated model image.
+
+Develop a video prompt using DeepSeek or another prompt-writing assistant.
+
+Specify camera movement, model actions, lighting and scene details.
+
+Generate the video.
+
+Review the result for visual consistency, clothing details and motion quality.
+
+Refine the prompt and export the final advertisement.
+
+Sample Video Generation Prompt
+
+Create a premium summer fashion advertisement featuring the model in the provided reference image wearing the exact T-shirt shown. The model confidently walks through a modern outdoor summer setting with warm natural sunlight and a fresh, energetic atmosphere.
+
+Use smooth cinematic camera movement, realistic body motion, natural facial expressions, detailed fabric texture and professional commercial lighting. Keep the T-shirt's original design, color, fit and visible branding consistent throughout the video.
+
+Use a clean composition, smooth transitions and a polished fashion-commercial aesthetic. Finish with a clear product-focused shot suitable for a short social media advertisement.
+
+Avoid distorted hands, unnatural movements, flickering, changing clothing details and inconsistent facial features.
