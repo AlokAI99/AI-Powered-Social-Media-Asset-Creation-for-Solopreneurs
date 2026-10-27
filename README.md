@@ -136,7 +136,7 @@ Create a fashion advertisement featuring an AI-generated model wearing the selec
 
 **Quality checklist:** Check motion consistency, garment accuracy, model appearance, video resolution and brand representation.
 
-## 👔 Use Case 3: Professional LinkedIn Headshot Creation
+##  Use Case 3: Professional LinkedIn Headshot Creation
 
 ### Objective
 
