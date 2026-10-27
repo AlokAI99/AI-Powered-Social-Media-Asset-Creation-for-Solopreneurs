@@ -7,7 +7,7 @@
 ![Tools](https://img.shields.io/badge/Tools-ChatGPT%20%7C%20Kling%20AI%20%7C%20Canva-orange)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
 
-## 📌 Project Overview
+ 📌 Project Overview
 
 This project demonstrates how a solopreneur can leverage Generative AI tools to create professional, engaging, and cost-effective social media assets without requiring an expensive marketing team or advanced graphic design skills.
 
