@@ -1,4 +1,4 @@
-# 🚀 AI-Powered Social Media Asset Creation for Solopreneurs
+# 🚀 AI-Powered Social Media Asset Creation for Solopreneur
 
 **Create Professional Posters, AI Video Ads & LinkedIn Headshots Using Generative AI**
 
