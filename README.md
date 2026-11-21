@@ -1,6 +1,6 @@
 # 🚀 AI-Powered Social Media Asset Creation for Solopreneur
 
-**Create Professional Posters, AI Video Ads & LinkedIn Headshots Using Generative AI**
+*Create Professional Posters, AI Video Ads & LinkedIn Headshots Using Generative AI**
 
 ![AI Marketing](https://img.shields.io/badge/AI-Generative%20AI-blueviolet)
 ![Category](https://img.shields.io/badge/Category-Digital%20Marketing-blue)
